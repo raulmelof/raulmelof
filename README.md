@@ -28,12 +28,12 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado, unindo minha 
 
 | Projeto | Descrição de Engenharia | Link |
 |---|---|---|
-| **eda2_arvores** | [cite_start]Análise comparativa de performance entre as estruturas de dados Árvore AVL e Rubro-Negra, aplicando conceitos avançados de Estrutura de Dados em C. [cite: 3] | [Ver Repositório](https://github.com/raulmelof/eda2_arvores) |
-| **apo1_petadopt** | [cite_start]Sistema completo para adoção de animais desenvolvido inteiramente em Java[cite: 5], demonstrando habilidades em Programação Orientada a Objetos e arquitetura de software. | [Ver Repositório](https://github.com/raulmelof/apo1_petadopt) |
-| **wnnb_site** | [cite_start]Website institucional desenvolvido para a marca Wannabe Skateboarding, aplicando tecnologias web como PHP, JavaScript, HTML e CSS. [cite: 2] | [Ver Repositório](https://github.com/raulmelof/wnnb_site) |
-| **eda2_sorts** | [cite_start]Estudo de eficiência e implementação de 11 diferentes algoritmos de ordenação em C[cite: 4], com foco em análise de complexidade e performance. | [Ver Repositório](https://github.com/raulmelof/eda2_sorts) |
-| **projeto_eda1** | [cite_start]Sistema de gestão de funcionários desenvolvido em linguagem C[cite: 1], com foco em manipulação de arquivos e estruturas de dados. | [Ver Repositório](https://github.com/raulmelof/projeto_eda1) |
-| **projeto_site** | [cite_start]Aplicação dos fundamentos de desenvolvimento web com HTML, CSS e JavaScript [cite: 6] na criação de um site estático. | [Ver Repositório](https://github.com/raulmelof/projeto_site) |
+| **eda2_arvores** | Análise comparativa de performance entre as estruturas de dados Árvore AVL e Rubro-Negra, aplicando conceitos avançados de Estrutura de Dados em C. | [Ver Repositório](https://github.com/raulmelof/eda2_arvores) |
+| **apo1_petadopt** | Sistema completo para adoção de animais desenvolvido inteiramente em Java, demonstrando habilidades em Programação Orientada a Objetos e arquitetura de software. | [Ver Repositório](https://github.com/raulmelof/apo1_petadopt) |
+| **wnnb_site** | Website institucional desenvolvido para a marca Wannabe Skateboarding, aplicando tecnologias web como PHP, JavaScript, HTML e CSS. | [Ver Repositório](https://github.com/raulmelof/wnnb_site) |
+| **eda2_sorts** | Estudo de eficiência e implementação de 11 diferentes algoritmos de ordenação em C, com foco em análise de complexidade e performance. | [Ver Repositório](https://github.com/raulmelof/eda2_sorts) |
+| **projeto_eda1** | Sistema de gestão de funcionários desenvolvido em linguagem C, com foco em manipulação de arquivos e estruturas de dados. | [Ver Repositório](https://github.com/raulmelof/projeto_eda1) |
+| **projeto_site** | Aplicação dos fundamentos de desenvolvimento web com HTML, CSS e JavaScript na criação de um site estático. | [Ver Repositório](https://github.com/raulmelof/projeto_site) |
 
 ---
 
