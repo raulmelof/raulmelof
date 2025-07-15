@@ -20,6 +20,8 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado, unindo minha 
   <a href="#"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse IDE"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Code%3A%3ABlocks-00BFFF?style=for-the-badge&logo=codeblocks&logoColor=white" alt="Code::Blocks"/></a>
 </p>
 
 ---
@@ -39,10 +41,10 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado, unindo minha 
 
 ### 🌱 Conceitos de Engenharia em Foco
 
-- **Análise de Algoritmos e Complexidade:** Avaliando e comparando diferentes abordagens para otimizar a performance.
-- **Estruturas de Dados Avançadas:** Implementando e utilizando estruturas complexas para resolver problemas específicos.
-- **Engenharia de Software e POO:** Projetando e construindo sistemas coesos e de fácil manutenção com Java.
-- **Desenvolvimento Web Full-Stack:** Criando soluções web completas, do front-end ao back-end.
+- **Análise de Algoritmos e Estrutura de Dados:** Implementação e estudo de performance de algoritmos de ordenação e árvores balanceadas (AVL e Rubro-Negra) em C, como visto nos projetos `eda2_sorts` e `eda2_arvores`.
+- **Engenharia de Software e Orientação a Objetos:** Projeto e desenvolvimento de um sistema completo em Java no `apo1_petadopt`, aplicando princípios de POO para criar uma arquitetura de software coesa e de fácil manutenção.
+- **Desenvolvimento Web:** Criação de aplicações e sites institucionais como o `wnnb_site`, utilizando PHP, JavaScript, HTML e CSS para entregar soluções funcionais e responsivas.
+- **Qualidade e Testes de Software:** Interesse e base acadêmica no ciclo de vida de software, com o objetivo de garantir a robustez, performance e confiabilidade dos sistemas através de testes eficazes.
 
 ---
 
