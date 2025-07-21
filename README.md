@@ -8,9 +8,8 @@ Meu objetivo é aplicar e expandir minhas habilidades em um ambiente dinâmico e
 
 ### 💻 Tecnologias e Ferramentas
 
-Aqui estão algumas das tecnologias com as quais tenho trabalhado, unindo minha formação acadêmica e projetos práticos:
-
 <p align="left">
+  <!-- Tecnologias -->
   <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
   <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
@@ -18,6 +17,8 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado, unindo minha 
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+  
+  <!-- Ferramentas e IDEs -->
   <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse IDE"/></a>
@@ -49,5 +50,48 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado, unindo minha 
 ---
 
 ### 📫 Como me encontrar
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raumelo777@gmail.com)
+
+---
+---
+
+# **RAUL MELO 🚀 (English Version)**
+
+Hello! 👋 My name is Raul Melo. I'm a Computer Engineering student at the Federal Institute of São Paulo (IFSP), passionate about finding creative solutions to problems through software development.
+
+My goal is to apply and expand my skills in a dynamic and innovative environment, with a special focus on the software development lifecycle, including **quality assurance (QA)** and the creation of robust systems. I constantly seek to connect my academic knowledge in engineering with the construction of practical and functional applications.
+
+---
+
+### 💻 Technologies and Tools
+
+*(Please refer to the icon list above)*
+
+---
+
+### 🚀 Project Highlights
+
+| Project | Engineering Description | Link |
+|---|---|---|
+| **eda2_arvores** | A comparative performance analysis between AVL and Red-Black Tree data structures, applying advanced data structure concepts in C. | [View Repository](https://github.com/raulmelof/eda2_arvores) |
+| **apo1_petadopt** | A complete pet adoption system developed entirely in Java, demonstrating skills in Object-Oriented Programming and software architecture. | [View Repository](https://github.com/raulmelof/apo1_petadopt) |
+| **wnnb_site** | An institutional website developed for the Wannabe Skateboarding brand, applying web technologies such as PHP, JavaScript, HTML, and CSS. | [View Repository](https://github.com/raulmelof/wnnb_site) |
+| **eda2_sorts** | An efficiency study and implementation of 11 different sorting algorithms in C, focusing on complexity and performance analysis. | [View Repository](https://github.com/raulmelof/eda2_sorts) |
+| **projeto_eda1** | An employee management system developed in C, with a focus on file manipulation and fundamental data structures. | [View Repository](https://github.com/raulmelof/projeto_eda1) |
+| **projeto_site** | An application of web development fundamentals, using HTML, CSS, and JavaScript to create a static website. | [View Repository](https://github.com/raulmelof/projeto_site) |
+
+---
+
+### 🌱 Key Engineering Concepts
+
+- **Algorithm and Data Structure Analysis:** Implementation and performance study of sorting algorithms and balanced trees (AVL and Red-Black) in C, as seen in the `eda2_sorts` and `eda2_arvores` projects.
+- **Software Engineering and Object-Oriented Programming:** Design and development of a complete system in Java in the `apo1_petadopt` project, applying OOP principles to create a cohesive and maintainable software architecture.
+- **Web Development:** Creation of applications and institutional websites like `wnnb_site`, using PHP, JavaScript, HTML, and CSS to deliver functional and responsive solutions.
+- **Software Quality and Testing:** Interest and academic background in the software lifecycle, aiming to ensure the robustness, performance, and reliability of systems through effective testing.
+
+---
+
+### 📫 How to reach me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raumelo777@gmail.com)
