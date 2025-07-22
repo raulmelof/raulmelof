@@ -56,7 +56,7 @@ Meu objetivo é aplicar e expandir minhas habilidades em um ambiente dinâmico e
 ---
 ---
 
-# **RAUL MELO 🚀 (English Version)**
+# **RAUL MELO 🚀**
 
 Hello! 👋 My name is Raul Melo. I'm a Computer Engineering student at the Federal Institute of São Paulo (IFSP), passionate about finding creative solutions to problems through software development.
 
