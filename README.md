@@ -1,8 +1,8 @@
 # RAUL MELO 🚀
 
-Olá! 👋 Me chamo Raul Melo. Sou um estudante de Engenharia da Computação no Instituto Federal de São Paulo (IFSP), apaixonado por encontrar soluções criativas para problemas através do desenvolvimento de software.
+Olá! 👋 Me chamo Raul Melo. Sou um estudante de Engenharia da Computação no IFSP, apaixonado por transformar problemas complexos em soluções de software eficientes.
 
-Meu objetivo é aplicar e expandir minhas habilidades em um ambiente dinâmico e inovador, com foco especial no ciclo de vida do software, incluindo a **garantia de qualidade (QA)** e a **criação de sistemas robustos**. Busco constantemente conectar meu conhecimento acadêmico em engenharia com a construção de aplicações práticas e funcionais.
+Meus projetos exploram desde os fundamentos da ciência da computação, como a análise de performance de algoritmos e estruturas de dados em C, até a construção de sistemas completos com Java e o desenvolvimento de aplicações web com PHP e JavaScript. Meu objetivo é continuar aprendendo e aplicando meu conhecimento de engenharia para criar tecnologia prática e funcional.
 
 ---
 
@@ -42,10 +42,10 @@ Meu objetivo é aplicar e expandir minhas habilidades em um ambiente dinâmico e
 
 ### 🌱 Conceitos de Engenharia em Foco
 
-- **Análise de Algoritmos e Estrutura de Dados:** Implementação e estudo de performance de algoritmos de ordenação e árvores balanceadas (AVL e Rubro-Negra) em C, como visto nos projetos `eda2_sorts` e `eda2_arvores`.
-- **Engenharia de Software e Orientação a Objetos:** Projeto e desenvolvimento de um sistema completo em Java no `apo1_petadopt`, aplicando princípios de POO para criar uma arquitetura de software coesa e de fácil manutenção.
-- **Desenvolvimento Web:** Criação de aplicações e sites institucionais como o `wnnb_site`, utilizando PHP, JavaScript, HTML e CSS para entregar soluções funcionais e responsivas.
-- **Qualidade e Testes de Software:** Interesse e base acadêmica no ciclo de vida de software, com o objetivo de garantir a robustez, performance e confiabilidade dos sistemas através de testes eficazes.
+- **Análise de Algoritmos e Estruturas de Dados:** Implementação e estudo de performance de algoritmos de ordenação e árvores balanceadas (AVL e Rubro-Negra) em C, como visto nos projetos `eda2_sorts` e `eda2_arvores`.
+- **Engenharia de Software e Orientação a Objetos:** Projeto e desenvolvimento de um sistema completo em Java (`apo1_petadopt`), aplicando princípios de POO para criar uma arquitetura de software coesa e de fácil manutenção.
+- **Desenvolvimento Web Full-Stack:** Criação de aplicações web, desde o desenvolvimento do back-end com PHP até a implementação de interfaces responsivas com HTML, CSS e JavaScript.
+- **Programação de Sistemas em C:** Desenvolvimento de aplicações com manipulação de arquivos e gerenciamento de memória, demonstrando uma base sólida em programação de baixo nível (`projeto_eda1`).
 
 ---
 
@@ -58,9 +58,9 @@ Meu objetivo é aplicar e expandir minhas habilidades em um ambiente dinâmico e
 
 # **RAUL MELO 🚀**
 
-Hello! 👋 My name is Raul Melo. I'm a Computer Engineering student at the Federal Institute of São Paulo (IFSP), passionate about finding creative solutions to problems through software development.
+Hello! 👋 My name is Raul Melo. I'm a Computer Engineering student at IFSP, passionate about transforming complex problems into efficient software solutions.
 
-My goal is to apply and expand my skills in a dynamic and innovative environment, with a special focus on the software development lifecycle, including **quality assurance (QA)** and the creation of robust systems. I constantly seek to connect my academic knowledge in engineering with the construction of practical and functional applications.
+My projects explore everything from the fundamentals of computer science, such as the performance analysis of algorithms and data structures in C, to building complete systems with Java and developing web applications with PHP and JavaScript. My goal is to continue learning and applying my engineering knowledge to create practical and functional technology.
 
 ---
 
@@ -86,9 +86,9 @@ My goal is to apply and expand my skills in a dynamic and innovative environment
 ### 🌱 Key Engineering Concepts
 
 - **Algorithm and Data Structure Analysis:** Implementation and performance study of sorting algorithms and balanced trees (AVL and Red-Black) in C, as seen in the `eda2_sorts` and `eda2_arvores` projects.
-- **Software Engineering and Object-Oriented Programming:** Design and development of a complete system in Java in the `apo1_petadopt` project, applying OOP principles to create a cohesive and maintainable software architecture.
-- **Web Development:** Creation of applications and institutional websites like `wnnb_site`, using PHP, JavaScript, HTML, and CSS to deliver functional and responsive solutions.
-- **Software Quality and Testing:** Interest and academic background in the software lifecycle, aiming to ensure the robustness, performance, and reliability of systems through effective testing.
+- **Software Engineering and Object-Oriented Programming:** Design and development of a complete system in Java (`apo1_petadopt`), applying OOP principles to create a cohesive and maintainable software architecture.
+- **Full-Stack Web Development:** Creation of web applications, from back-end development with PHP to the implementation of responsive interfaces with HTML, CSS, and JavaScript.
+- **Systems Programming in C:** Development of applications with file manipulation and memory management, demonstrating a solid foundation in low-level programming (`projeto_eda1`).
 
 ---
 
