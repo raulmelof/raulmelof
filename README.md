@@ -37,6 +37,9 @@ Meus projetos exploram desde os fundamentos da ciência da computação, como a 
 | **eda2_sorts** | Estudo de eficiência e implementação de 11 diferentes algoritmos de ordenação em C, com foco em análise de complexidade e performance. | [Ver Repositório](https://github.com/raulmelof/eda2_sorts) |
 | **projeto_eda1** | Sistema de gestão de funcionários desenvolvido em linguagem C, com foco em manipulação de arquivos e estruturas de dados. | [Ver Repositório](https://github.com/raulmelof/projeto_eda1) |
 | **projeto_site** | Aplicação dos fundamentos de desenvolvimento web com HTML, CSS e JavaScript na criação de um site estático. | [Ver Repositório](https://github.com/raulmelof/projeto_site) |
+| **lfat_reconhecedor_de_gramaticas** | Analisador e validador de gramáticas formais em C. O programa lê uma gramática de um arquivo, valida sua sintaxe e exibe seus componentes (N, T, P, S). | [Ver Repositório](https://github.com/raulmelof/lfat_reconhecedor_de_gramaticas) |
+| **lfat_interpretador** | Construção de um interpretador completo (Lexer, Parser e Executor) para um subconjunto da linguagem BASIC com Python e PLY. Demonstra domínio em teoria de compiladores, análise sintática e design de linguagens. | [Ver Repositório](https://github.com/raulmelof/lfat_interpretador) |
+| **apo2_eventos** | Plataforma de eventos em Java Web (Servlets/JSP) com painel de admin, área de usuário, check-in por QR Code e emissão de certificados. Foco em arquitetura MVC, padrão DAO e segurança com Filters. | [Ver Repositório](https://github.com/raulmelof/apo2_eventos) |
 
 ---
 
@@ -46,6 +49,8 @@ Meus projetos exploram desde os fundamentos da ciência da computação, como a 
 - **Engenharia de Software e Orientação a Objetos:** Projeto e desenvolvimento de um sistema completo em Java (`apo1_petadopt`), aplicando princípios de POO para criar uma arquitetura de software coesa e de fácil manutenção.
 - **Desenvolvimento Web Full-Stack:** Criação de aplicações web, desde o desenvolvimento do back-end com PHP até a implementação de interfaces responsivas com HTML, CSS e JavaScript.
 - **Programação de Sistemas em C:** Desenvolvimento de aplicações com manipulação de arquivos e gerenciamento de memória, demonstrando uma base sólida em programação de baixo nível (`projeto_eda1`).
+- **Teoria de Compiladores e Linguagens Formais:** Aplicação prática de conceitos de teoria da computação, incluindo a construção de um analisador sintático em C para validar gramáticas formais (`lfat_reconhecedor_de_gramaticas`) e o desenvolvimento de um interpretador completo em Python com análise léxica, parsing e execução semântica (`lfat_interpretador`).
+- **Desenvolvimento Web com Java (Servlets & JSP):** Construção de uma aplicação web full-stack, gerenciamento de sessões HTTP, segurança com Filters e interações dinâmicas com AJAX, como demonstrado no projeto da plataforma de eventos `apo2_eventos`.
 
 ---
 
@@ -80,6 +85,9 @@ My projects explore everything from the fundamentals of computer science, such a
 | **eda2_sorts** | An efficiency study and implementation of 11 different sorting algorithms in C, focusing on complexity and performance analysis. | [View Repository](https://github.com/raulmelof/eda2_sorts) |
 | **projeto_eda1** | An employee management system developed in C, with a focus on file manipulation and fundamental data structures. | [View Repository](https://github.com/raulmelof/projeto_eda1) |
 | **projeto_site** | An application of web development fundamentals, using HTML, CSS, and JavaScript to create a static website. | [View Repository](https://github.com/raulmelof/projeto_site) |
+| **lfat_reconhecedor_de_gramaticas** | A formal grammar parser and validator written in C. The program reads a grammar from a file, validates its syntax, and displays its components (N, T, P, S). | [View Repository](https://github.com/raulmelof/lfat_reconhecedor_de_gramaticas) |
+| **lfat_interpretador** | Built a complete interpreter (Lexer, Parser, and Executor) for a subset of the BASIC language using Python and PLY. Demonstrates proficiency in compiler theory, syntactic analysis, and language design. | [View Repository](https://github.com/raulmelof/lfat_interpretador) |
+| **apo2_eventos** | An event platform using Java Web (Servlets/JSP) with an admin panel, user area, QR code check-in, and certificate generation. Focus on MVC architecture, DAO pattern, and security with Filters. | [View Repository](https://github.com/raulmelof/apo2_eventos) |
 
 ---
 
@@ -89,6 +97,8 @@ My projects explore everything from the fundamentals of computer science, such a
 - **Software Engineering and Object-Oriented Programming:** Design and development of a complete system in Java (`apo1_petadopt`), applying OOP principles to create a cohesive and maintainable software architecture.
 - **Full-Stack Web Development:** Creation of web applications, from back-end development with PHP to the implementation of responsive interfaces with HTML, CSS, and JavaScript.
 - **Systems Programming in C:** Development of applications with file manipulation and memory management, demonstrating a solid foundation in low-level programming (`projeto_eda1`).
+- **Compiler Theory & Formal Languages:** Practical application of computation theory concepts, including building a syntactic parser in C to validate formal grammars (`lfat_reconhecedor_de_gramaticas`) and developing a complete interpreter in Python featuring lexical analysis, parsing, and semantic execution (`lfat_interpretador`).
+- **Java Web Development (Servlets & JSP):** Built a full-stack web application, managing HTTP sessions, securing routes with Filters, and creating dynamic interactions with AJAX, as demonstrated in the `apo2_encoad` event platform project.
 
 ---
 
