@@ -20,7 +20,7 @@ Meus projetos exploram desde os fundamentos da ciência da computação, como a 
   
   <!-- Ferramentas e IDEs -->
   <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse IDE"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Code%3A%3ABlocks-00BFFF?style=for-the-badge&logo=codeblocks&logoColor=white" alt="Code::Blocks"/></a>
 </p>
